@@ -1,5 +1,5 @@
 var num = 2000;
-var range = 6;
+var range = 60;
 
 var ax = [];
 var ay = [];
