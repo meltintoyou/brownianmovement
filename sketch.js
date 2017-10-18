@@ -11,11 +11,11 @@ function setup() {
     ax[i] = width / 2;
     ay[i] = height / 2;
   }
-  frameRate(30);
+  frameRate(10);
 }
 
 function draw() {
-  background(51);
+  background(45);
 
   // Shift all elements 1 place to the left
   for ( var i = 1; i < num; i++ ) {
